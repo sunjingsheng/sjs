@@ -7,3 +7,4 @@ while b<=100:
     b=b+1
     a=sum
     print(sum)
+aaa
